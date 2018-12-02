@@ -85,7 +85,7 @@ class AddOption extends React.Component {
 
         if(option){
             alert(option);
-            alert("hello");
+
         }
     }
     render(){
